@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\maxtest\\aspnet8webapi\\luckandy2024\\aspnet8\\AngularAspnet8\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3D637E-DF0C-44A1-BA97-823949DB35A1}|angularaspnet8.client\\angularaspnet8.client.esproj|f:\\maxtest\\aspnet8webapi\\luckandy2024\\aspnet8\\angularaspnet8\\angularaspnet8.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D3D637E-DF0C-44A1-BA97-823949DB35A1}|angularaspnet8.client\\angularaspnet8.client.esproj|solutionrelative:angularaspnet8.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3D637E-DF0C-44A1-BA97-823949DB35A1}|angularaspnet8.client\\angularaspnet8.client.esproj|f:\\maxtest\\aspnet8webapi\\luckandy2024\\aspnet8\\angularaspnet8\\angularaspnet8.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8D3D637E-DF0C-44A1-BA97-823949DB35A1}|angularaspnet8.client\\angularaspnet8.client.esproj|solutionrelative:angularaspnet8.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "F:\\maxtest\\aspnet8webapi\\luckandy2024\\aspnet8\\AngularAspnet8\\angularaspnet8.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularaspnet8.client\\src\\index.html",
+              "ToolTip": "F:\\maxtest\\aspnet8webapi\\luckandy2024\\aspnet8\\AngularAspnet8\\angularaspnet8.client\\src\\index.html",
+              "RelativeToolTip": "angularaspnet8.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-19T15:30:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "F:\\maxtest\\aspnet8webapi\\luckandy2024\\aspnet8\\AngularAspnet8\\angularaspnet8.client\\README.md",
+              "RelativeDocumentMoniker": "angularaspnet8.client\\README.md",
+              "ToolTip": "F:\\maxtest\\aspnet8webapi\\luckandy2024\\aspnet8\\AngularAspnet8\\angularaspnet8.client\\README.md",
+              "RelativeToolTip": "angularaspnet8.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-19T15:28:18.533Z",
+              "EditorCaption": ""
             }
           ]
         }
